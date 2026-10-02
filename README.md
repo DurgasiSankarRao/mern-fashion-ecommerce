@@ -5,7 +5,7 @@ A **full-stack fashion e-commerce web application** built using the **MERN stack
 
 🌐 **Live Demo:** [https://mern-fashion-ecommerce.vercel.app](https://mern-fashion-ecommerce.vercel.app) 
 
-💻 **Source Code:** [https://github.com/DurgasiShankarRao/mern-fashion-ecommerce](https://github.com/DurgasiShankarRao/mern-fashion-ecommerce)
+💻 **Source Code:** [https://github.com/DurgasiSankarRao/mern-fashion-ecommerce](https://github.com/DurgasiSankarRao/mern-fashion-ecommerce)
 
 ---
 
@@ -122,7 +122,7 @@ JWT_SECRET=your_secret_key
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/DurgasiShankarRao/mern-fashion-ecommerce.git
+git clone https://github.com/DurgasiSankarRao/mern-fashion-ecommerce.git
 cd mern-fashion-ecommerce
 ```
 
